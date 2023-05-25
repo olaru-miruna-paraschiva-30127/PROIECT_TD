@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef2ada1b-3eea-4b08-986d-88fc32485725" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/models/parrot.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/routes/parrot.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/components/LogNew.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/types/Parrot.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/config/db.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/config/db.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/controllers/tutorial.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/controllers/parrot.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/models/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/models/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/models/tutorial.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/app/routes/turorial.routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/components/AddTutorial.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/components/AddParrot.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/components/TutorialsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/components/ParrotsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/router.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/services/TutorialDataService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/services/ParrotDataService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3-express-postgresql-crud/frontend/src/types/Tutorial.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue3-express-postgresql-crud" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Peuu7O11Lla84md98jn9UkreqV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef2ada1b-3eea-4b08-986d-88fc32485725" name="Changes" comment="" />
+      <created>1683830088224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683830088224</updated>
+    </task>
+    <servers />
+  </component>
+</project>
